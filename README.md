@@ -31,7 +31,7 @@ For freelance work, I prefer agreeing on scope, inputs, expected output, and acc
 | [Advanced File Renamer](https://github.com/sahilkumar21072004-a11y/21-advanced-file-renamer) | Bulk file-renaming utility | Python |
 | [Currency Converter](https://github.com/sahilkumar21072004-a11y/09-currency-converter) | Currency conversion using an external exchange-rate API | Python, Requests, JSON |
 | [TwachaRog](https://github.com/sahilkumar21072004-a11y/twacharog) | Image-classification prototype for skin-related image categories | TensorFlow, Flask, React/TypeScript |
-| [Event Registration Mini App](https://github.com/sahilkumar21072004-a11y) | See my repositories for web application experiments and smaller builds | React, Node.js, Express, MongoDB (learning projects) |
+| [Browse all repositories](https://github.com/sahilkumar21072004-a11y?tab=repositories) | Explore additional web, JavaScript, and beginner-to-intermediate projects; each repository documents its own scope | Varies by project |
 | [AI / Full-stack experiments](https://github.com/sahilkumar21072004-a11y?tab=repositories) | Additional experiments and smaller projects across Python, JavaScript, and web development | See individual repository READMEs |
 
 > **Project transparency:** these repositories have different levels of completeness. Check each README for setup and current limitations. AI/ML projects are educational prototypes, not medical tools or professional advice.
