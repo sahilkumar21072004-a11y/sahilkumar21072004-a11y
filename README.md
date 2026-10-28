@@ -1,72 +1,54 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Welcome%20to%20My%20GitHub&fontSize=40"/>
+# Hi, I'm Sahil Kumar 👋
 
-<h1 align="center">Hi 👋, I'm Sahil</h1>
-<h3 align="center">AI • Cyber Security • Full Stack Developer</h3>
+**Python Developer | Automation • Flask/FastAPI • AI/ML Projects**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Developer;Cyber+Security+Learner;Python+Programmer;Hackathon+Ready;Always+Learning&center=true&width=500&height=50">
-</p>
+I'm a B.Tech Information Technology student who enjoys building practical software that solves real problems. I work with Python for automation, backend APIs, data processing, and AI/ML prototypes.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilkumar21072004-a11y&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+I'm currently building my portfolio and open to **small freelance projects, bug fixes, Python automation tasks, and backend development work**.
 
----
+## What I can help with
 
-## 🧠 About Me
-- 🔭 Currently working on **AI & Security based projects**
-- 🌱 Learning **Networking, Metasploit & Advanced AI**
-- 💬 Ask me about **Python, Flask, AI, Cyber Security**
-- ⚡ Goal: *Build real-world & hackathon-winning projects*
+- 🐍 Python scripts and workflow automation
+- ⚙️ Flask / FastAPI backend endpoints and REST API integrations
+- 📊 CSV/Excel processing and data cleanup
+- 🛠️ Debugging, bug fixing, and improving existing Python code
+- 🤖 AI/ML prototypes and OpenCV-based applications
+- 🗄️ SQL/database integration for small applications
 
----
+## Featured projects
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/sahilkumar21072004-a11y">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://instagram.com/i_sahil_kumar">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/sahil-kumar-5145b7305">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+| Project | What it does | Tech |
+|---|---|---|
+| [Bid-Pilot AI MVP](https://github.com/sahilkumar21072004-a11y/Bid-Pilot_AI-MVP) | Local-first prototype that turns RFP documents into editable proposal drafts, with review workflows and DOCX/PDF export | Python, FastAPI, React, LangGraph |
+| [AI-Based Exam Anxiety Detector](https://github.com/sahilkumar21072004-a11y/AI-Based-Exam-Anxiety-Detector) | Research prototype for classifying exam-related text into anxiety levels | Python, BERT, FastAPI, Streamlit |
+| [Folder Organizer PRO](https://github.com/sahilkumar21072004-a11y/22-Folder-Organizer-PRO) | Organizes files by type with dry-run preview, logging, conflict handling, and undo support | Python, OS, shutil |
+| [Advanced File Renamer](https://github.com/sahilkumar21072004-a11y/21-advanced-file-renamer) | Bulk file renaming with configurable rules and a safe preview mode | Python, CLI |
+| [Currency Converter](https://github.com/sahilkumar21072004-a11y/09-currency-converter) | Converts currencies using an external exchange-rate API | Python, Requests, JSON |
+| [TwachaRog](https://github.com/sahilkumar21072004-a11y/twacharog) | AI-based image-classification prototype for skin-related categories | TensorFlow, Flask, Web UI |
 
----
+> AI/ML projects in this portfolio are prototypes for learning and demonstration. They should not be treated as medical advice or diagnosis.
 
-## 🛠 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,js,git,github,linux,aws,tensorflow" />
-</p>
+## Tech stack
 
----
+**Languages:** Python, JavaScript, SQL, HTML, CSS  
+**Python & backend:** Flask, FastAPI, Django, Requests, Pandas  
+**AI/ML & computer vision:** TensorFlow, PyTorch, Transformers, OpenCV  
+**Tools:** Git, GitHub, VS Code
 
-## 🚀 Featured Projects
-- 🔐 **AI Dermatologist** – Skin disease detection using CNN
-- 🎓 **Automated Exam Grading System**
-- 🧠 **AI Urban Risk Platform**
-- 👁 **Face Recognition Attendance System**
+## How I work
 
----
+- Clarify the requirement and expected output before coding.
+- Break tasks into small, testable steps.
+- Handle errors and edge cases, not just the happy path.
+- Provide setup instructions and explain how to run the solution.
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilkumar21072004-a11y&show_icons=true&theme=tokyonight" />
-</p>
+## Let's connect
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumar21072004-a11y&theme=tokyonight" />
-</p>
+- **GitHub:** [@sahilkumar21072004-a11y](https://github.com/sahilkumar21072004-a11y)
+- **LinkedIn:** [Sahil Kumar](https://www.linkedin.com/in/sahil-kumar-5145b7305)
+
+Have a Python task to automate, a bug to fix, or a small API to build? Feel free to reach out.
 
 ---
 
-## 🏆 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkumar21072004-a11y&theme=react-dark" />
-</p>
-
----
-
-<h3 align="center">🔥 “Code. Learn. Build. Win.” 🔥</h3>
+*Build useful things. Keep learning. Improve with every project.*
